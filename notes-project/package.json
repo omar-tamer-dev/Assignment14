@@ -1,0 +1,15 @@
+{
+  "name": "notes-management-system",
+  "version": "1.0.0",
+  "description": "Assignment 14 - TypeScript OOP",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
+  }
+}
